@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rood 1x2</folder>
+	<filename>20201124_111843_061.jpg</filename>
+	<path>C:\Users\tomdu\Desktop\OD set\images\foto\rood 1x2\20201124_111843_061.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1x2 red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>166</ymin>
+			<xmax>142</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

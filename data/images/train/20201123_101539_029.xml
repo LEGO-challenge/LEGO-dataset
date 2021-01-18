@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OD set</folder>
+	<filename>20201123_101539_029.jpg</filename>
+	<path>C:\Users\Tom\Desktop\OD set\20201123_101539_029.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2x2 green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>167</ymin>
+			<xmax>176</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

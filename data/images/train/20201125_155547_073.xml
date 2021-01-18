@@ -1,0 +1,26 @@
+<annotation>
+	<folder>blauw 1x1</folder>
+	<filename>20201125_155547_073.jpg</filename>
+	<path>C:\Users\tomdu\Desktop\OD set\images\foto\blauw 1x1\20201125_155547_073.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1x1 blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>157</ymin>
+			<xmax>150</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

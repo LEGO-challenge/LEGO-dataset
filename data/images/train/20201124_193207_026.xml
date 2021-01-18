@@ -1,0 +1,26 @@
+<annotation>
+	<folder>blauw 2x2</folder>
+	<filename>20201124_193207_026.jpg</filename>
+	<path>C:\Users\tomdu\Desktop\OD set\images\foto\blauw 2x2\20201124_193207_026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2x2 blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>146</ymin>
+			<xmax>176</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>
