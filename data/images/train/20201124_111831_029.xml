@@ -1,7 +1,7 @@
 <annotation>
-	<folder>rood 1x2</folder>
+	<folder>rood 1x2 Olivia</folder>
 	<filename>20201124_111831_029.jpg</filename>
-	<path>C:\Users\tomdu\Desktop\OD set\images\foto\rood 1x2\20201124_111831_029.jpg</path>
+	<path>C:\Users\Pieter\Downloads\nieuwe dataset-20210121T182420Z-001\nieuwe dataset\rood 1x2 Olivia\20201124_111831_029.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>117</xmin>
-			<ymin>152</ymin>
-			<xmax>227</xmax>
-			<ymax>269</ymax>
+			<xmin>121</xmin>
+			<ymin>153</ymin>
+			<xmax>226</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 </annotation>

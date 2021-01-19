@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rood 2x4 Olivia</folder>
+	<filename>20201123_100738_015.jpg</filename>
+	<path>C:\Users\Pieter\Downloads\rood 2x4 Olivia-20210121T173609Z-001\rood 2x4 Olivia\20201123_100738_015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2x4 red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>68</ymin>
+			<xmax>203</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

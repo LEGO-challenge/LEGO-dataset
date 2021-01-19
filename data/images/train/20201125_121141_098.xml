@@ -1,0 +1,26 @@
+<annotation>
+	<folder>blauw 2x2 Tom</folder>
+	<filename>20201125_121141_098.jpg</filename>
+	<path>C:\Users\tomdu\Desktop\nieuwe dataset\blauw 2x2 Tom\20201125_121141_098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2x2 blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>166</ymin>
+			<xmax>172</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

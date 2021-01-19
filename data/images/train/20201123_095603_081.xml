@@ -1,0 +1,26 @@
+<annotation>
+	<folder>groen 2x2 Danique</folder>
+	<filename>20201123_095603_081.jpg</filename>
+	<path>C:\Users\Dell\Downloads\drive-download-20210121T175407Z-001\groen 2x2 Danique\20201123_095603_081.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2x2 green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>67</ymin>
+			<xmax>203</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

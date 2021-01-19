@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rood 1x2 Olivia</folder>
+	<filename>20201125_121411_048.jpg</filename>
+	<path>C:\Users\Pieter\Downloads\nieuwe dataset-20210121T182420Z-001\nieuwe dataset\rood 1x2 Olivia\20201125_121411_048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1x2 red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>117</ymin>
+			<xmax>220</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

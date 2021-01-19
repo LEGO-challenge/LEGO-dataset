@@ -1,7 +1,7 @@
 <annotation>
-	<folder>blauw 1x1</folder>
+	<folder>blauw 1x1 Tom</folder>
 	<filename>20201125_121639_046.jpg</filename>
-	<path>C:\Users\tomdu\Desktop\OD set\images\foto\blauw 1x1\20201125_121639_046.jpg</path>
+	<path>C:\Users\tomdu\Desktop\nieuwe dataset\blauw 1x1 Tom\20201125_121639_046.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>176</ymin>
-			<xmax>132</xmax>
-			<ymax>220</ymax>
+			<xmin>86</xmin>
+			<ymin>173</ymin>
+			<xmax>135</xmax>
+			<ymax>224</ymax>
 		</bndbox>
 	</object>
 </annotation>
