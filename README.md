@@ -10,7 +10,7 @@ The LEGO challenge was pitched by a teacher at the Hague university of applied s
 #### Object detection
 To train the object detection model we used a [tutorial from medium](https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc) It has been altered somewhat for it to work with our dataset. This is only the tip of the iceberg though as most of our time and effort was spent learning about AI and machine learning and figuring out what worked for us and what didn't. For more information check out the 'info' folder (beware most of it will be Dutch).
 
-While setting up the model went smoothly, there were a few problems while training the model. The biggest problem we ran into was the batch size. The model wouldn’t train if the number of pictures couldn't be divided by the batch size. We solved this problem by making the batch size 8 and both the train and test sets dividable by 8. 
+While setting up the model went smoothly, there were a few problems while training the model. The biggest problem we ran into was the batch size. The model wouldn’t train if the number of pictures couldn't be divided by the batch size. We solved this problem by making the batch size 8 and both the train and test sets divisible by 8. 
 
 A small hiccup we ran into was that no module named 'lvis' has been installed. That problem can be solved by adding the line `!pip install lvis`.
 
