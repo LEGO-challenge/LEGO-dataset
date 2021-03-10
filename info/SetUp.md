@@ -113,9 +113,9 @@ input_path: "annotations/test.record" (#Path to test.record)
 ### Step 14: TensorBoard
 Run the code to start the tensorboard. At first , you might receive a message saying “No dashboards are active for the current data set”. But once the training start, there will be training metrics. 
 ### Step 15: The training.
-Before the fun will start you need to check if the code !pip install lvis –make code thingy-
-Is present. We weren’t able to train the model without it. The Lvis enables reading and interaction with the (visual) annotation and helps evaluate the results.
+Before the fun will start you need to check if the code `!pip install lvis`
+is present. We weren’t able to train the model without it. The Lvis enables reading and interaction with the (visual) annotation and helps evaluate the results.
 
 ### Step 16 -20: Save and test
 You’re almost done! After training and saving the model it is time for testing. Upload some testing pictures to google drive, add the path to them in step 19 and test them in step 20. 
-Near the bottom of step 20 there is a line with max_boxes_to_draw = 1. Change the number to to the amount of boxes you want to be drawn. Underneath there is the min_score_thresh. Every prediction underneath the threshold won’t be drawn. Changing the number will change the threshold. 
+Near the bottom of step 20 there is a line with `max_boxes_to_draw = 1`. Change the number to to the amount of boxes you want to be drawn. Underneath there is the `min_score_thresh`. Every prediction underneath the threshold won’t be drawn. Changing the number will change the threshold. 
