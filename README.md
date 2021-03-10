@@ -8,11 +8,13 @@ The LEGO challenge was pitched by a teacher at the Hague university of applied s
 <p align="center"><img src="https://github.com/LEGO-challenge/LEGO-dataset/blob/main/ReadMePictures/1200px-TensorFlowLogo.svg.png"/ alt="TensorFlow Logo"  width="120" height="100"></p>
 
 #### Object detection
-To train the object detection model we used [this tutorial from medium](https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc). This model uses TensorFlow. For more information, see our short [guide](info/setup.md) about TensorFlow.  This is only the tip of the iceberg though, as most of our time and effort was spent learning about AI and machine learning and figuring out what worked for us and what didn't. For more information check out the 'info' folder (beware most of it will be Dutch).
+To train the object detection model [this tutorial from medium](https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc) has been used. There is more information about the setup and adding our own dataset [here](info/SetUp.md). This model uses TensorFlow. For more information, see our short [guide](info/setup.md) about TensorFlow.  
 
 While setting up the model went smoothly, there were a few problems while training the model. The biggest problem we ran into was the batch size. The model wouldn’t train if the number of pictures couldn't be divided by the batch size. We solved this problem by making the batch size 8 and both the train and test sets divisible by 8. 
 
 A small hiccup we ran into was that no module named 'lvis' has been installed. That problem can be solved by adding the line `!pip install lvis` above the training section. The code has been forked and the alteration has been added to the forked code.
+
+This is only the tip of the iceberg though, as most of our time and effort was spent learning about AI and machine learning and figuring out what worked for us and what didn't. For more information check out the 'info' folder (beware most of it will be Dutch).
 
 #### Classification
 Before the object detection model we had a classification model. [This tutorial from codelab](https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android#0 "the tutorial") has been used. Starting with a classification model did make this easier in the long run. The first thing that we realized is to make your own dataset. The dataset was consisted of 9 classes with over a thousand pictures of each class. The pictures have been made using the burst mode to make lots of pictures.
