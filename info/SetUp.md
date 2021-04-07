@@ -3,7 +3,7 @@
 ### How to use the dataset?
 The dataset consist of images of LEGO bricks. These images have been labelled using XML files. To label them a tool called LabelImg has been used. The installation and usage instructions is on its [GitHub]( https://github.com/tzutalin/labelImg) page. Before labelling the images have been rescaled, downsizing them to 240x320px. This has saved a lot of storage space. 
 ## Shortened version of the tutorial
-For this project a [tutorial]() posted by Nisarg Kapkar on Medium.com has been used. This being his tutorial he has full rights to take this down at any point in time. To make sure this project remains usable there is a shortened version of the tutorial down below.
+For this project a [tutorial](https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc) posted by Nisarg Kapkar on Medium.com has been used. This being his tutorial he has full rights to take this down at any point in time. To make sure this project remains usable there is a shortened version of the tutorial down below.
 
 ### Step 1- Setup (Get and label images, Label_map, etc.)
 It’s essential to provide properly labelled images, these will be used to train the model later on. The images for this step can be from the internet. Our dataset has been uploaded in the data folder, feel free to try it yourself. If you want to label your own images, you can use LabelImg. It has also been used for our dataset and it worked great. 
